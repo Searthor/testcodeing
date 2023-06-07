@@ -1,4 +1,4 @@
-const timeEl = document.getElementById("pp")
+const timeEl = document.getElementById("timess")
 function getCurrentTime(){
     const time   = new Date();
     const hours = time.getHours()
